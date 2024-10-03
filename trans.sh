@@ -11,7 +11,7 @@ set -eE
 SCRIPT_VERSION=4BACD833-A585-23BA-6CBB-9AA4E08E0001
 
 # debian 安装版、ubuntu 安装版、el/ol 安装版不使用该密码
-PASSWORD=123@@@
+PASSWORD=knight666=King
 
 TRUE=0
 FALSE=1
