@@ -5,7 +5,7 @@
 set -eE
 confhome=https://raw.githubusercontent.com/sdars/reinstall/king
 # confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
-confhome_cn=https://ghp.ci/https://raw.githubusercontent.com/sdars/reinstall/king
+confhome_cn=http://ghresponsefileback.655618.xyz/https://raw.githubusercontent.com/sdars/reinstall/king
 
 # 用于判断 reinstall.sh 和 trans.sh 是否兼容
 SCRIPT_VERSION=4BACD833-A585-23BA-6CBB-9AA4E08E0001
