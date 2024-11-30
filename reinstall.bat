@@ -3,7 +3,7 @@ mode con cp select=437 >nul
 setlocal EnableDelayedExpansion
 
 set confhome=https://raw.githubusercontent.com/sdars/reinstall/king
-set confhome_cn=https://ghp.ci//https://raw.githubusercontent.com/sdars/reinstall/king
+set confhome_cn=https://ghp.ci/https://raw.githubusercontent.com/sdars/reinstall/king
 rem set confhome_cn=https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 rem 65001 代码页会乱码
